@@ -39,7 +39,7 @@
     </scm>
 
     <properties>
-        <hjson.version>3.0.0</hjson.version>
+        <hjson.version>3.0.1</hjson.version>
         <handlebars.version>4.2.0</handlebars.version>
         <json-schema-validator.version>2.2.14</json-schema-validator.version>
         <commons-io.version>2.11.0</commons-io.version>
